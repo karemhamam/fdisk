@@ -28,7 +28,7 @@ sudo ./fdisk /dev/sda
 
 ## Installation
 
-1. Clone the repository and compile the code: git clone ()
+1. Clone the repository and compile the code: git clone (https://github.com/karemhamam/fdisk/tree/master)
 
 ## Contributing
 
