@@ -17,19 +17,18 @@ This project implements a simplified version of the `fdisk -l` command. The prog
 
 To compile the program, use the following command:
 
-```bash```
 gcc -o fdisk fdisk.c
 
 
 ## Usage
 
 Run the compiled program with root privileges to list the partitions of a specified disk:
-```bash```
+
 sudo ./fdisk /dev/sda
 
 ## Installation
 
-1. Clone the repository and compile the code: git clone ()
+1. Clone the repository and compile the code: git clone (https://github.com/karemhamam/fdisk/tree/master)
 
 ## Contributing
 
